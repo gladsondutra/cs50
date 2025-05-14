@@ -1,0 +1,24 @@
+# Ignore build artifacts
+*.o
+*.out
+*.exe
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
